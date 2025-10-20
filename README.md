@@ -68,7 +68,7 @@ Brain-Stroke-Prediction/
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/Brain-Stroke-Prediction.git
+git clone https://github.com/debjit11/Brain-Stroke-Prediction.git
 cd Brain-Stroke-Prediction
 
 # 2️⃣ Create virtual environment (Recommended)
