@@ -58,7 +58,7 @@ Brain-Stroke-Prediction/
 
 ## Prerequisites
 
-- Python 3.8+  
+- Python 3.12.7+  
 - pip / virtual environment  
 - Jupyter Notebook (optional but recommended)
 
