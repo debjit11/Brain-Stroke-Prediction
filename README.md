@@ -72,7 +72,7 @@ git clone https://github.com/debjit11/Brain-Stroke-Prediction.git
 cd Brain-Stroke-Prediction
 
 # 2️⃣ Create virtual environment (Recommended)
-python -m venv .venv
+uv venv
 # Windows
 .\.venv\Scripts\activate
 # Linux/Mac
