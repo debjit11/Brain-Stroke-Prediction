@@ -74,7 +74,7 @@ cd Brain-Stroke-Prediction
 # 2️⃣ Create virtual environment (Recommended)
 uv venv
 # Windows
-.\.venv\Scripts\activate
+.venv\Scripts\activate    
 # Linux/Mac
 source .venv/bin/activate
 
